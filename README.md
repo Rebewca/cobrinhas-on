@@ -26,10 +26,6 @@ O jogo é jogável tanto em **teclado** quanto em **dispositivos móveis**, com 
 ✅ Navegadores Desktop  
 ✅ Dispositivos Mobile (com botões de controle adaptados)
 
-## 📷 Preview
-
-(📌 *Adicione aqui um print do jogo ou um gif curto mostrando ele funcionando*)
-
 ## 🚀 Resultado
 
 Esse projeto me ajudou a consolidar conhecimentos importantes do **desenvolvimento front-end**, principalmente na parte lógica e interativa com JavaScript. Ainda é um jogo simples, mas ver o resultado final funcionando me deu ainda mais motivação para seguir evoluindo na área!
