@@ -36,5 +36,5 @@ Esse projeto me ajudou a consolidar conhecimentos importantes do **desenvolvimen
 
 ---
 
-### 👩‍💻 Desenvolvido por: [Seu nome ou @seuUserGitHub]
+
 
